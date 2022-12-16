@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+}
+
+.paragraph
+{
+    position: absolute;
+    top: 40px;
+    right: 130px;
+    background-color: #124559;
+    color: white;
+    font-size: 20px ;
+    font-weight: normal;
+letter-spacing: 6px;
+}
+
+h3{
+    position: absolute;
+    top: 240px;
+    left: 110px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+h1{
+    position: absolute;
+    top: 280px;
+    left: 150px;
+    color: whitesmoke;
+   font-size: 90px;
+   font-family: serif;
+   line-height: 0.5;
+}
+
+.paragraph2
+{
+    position: absolute;
+    top: 450px ;
+    left: 140px;
+    font-size: 18px;
+    color: white;
+    width: 330px;
+}
+
+.logo
+{
+    background-color: white;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    border-radius: 50%;
+}
+
+.explore{
+position: absolute;
+top: 400px;
+right: 230px;
+color: black;
+font-size: 30px;
+}
+
+
+.circle
+{
+    border-radius: 50%;
+    position: absolute;
+    width: 200px;
+height: 200px;
+background-color: white;
+top: 350px;
+right: 200px;
+}
+
+
+.image
+{
+    height: 900px;
+    width: 1680px;
+}
+
+
+.line
+{
+    position: absolute;
+    top: 50px;
+    left: 130px;
+    width: 35%;
+}
